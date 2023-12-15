@@ -1,9 +1,9 @@
-use days::day14;
+use days::day15;
 
 pub mod days;
 pub mod utils;
 
 fn main() {
-    // dbg!(day14::part1());
-    dbg!(day14::part2());
+    // dbg!(day15::part1());
+    dbg!(day15::part2());
 }
